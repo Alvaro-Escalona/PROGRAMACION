@@ -1,3 +1,4 @@
+
 # dime si un numero pertenece a la secuencia fibonnaci
 encontrado = False
 n1 = 0

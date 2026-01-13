@@ -1,6 +1,6 @@
 sumatotal = 0
 contador = 0
-numvalores = 0 
+numvalores = 1
 par = 0
 impar = 0
 i = 0
@@ -17,7 +17,7 @@ while (numvalores<0):
 
 media= sumatotal / numvalores
 
-print (int("La media es ",media, "y hay ", par,"numeros pares y",impar,"numeros impares"))
+print (int(f"La media es {media} y hay {par} numeros pares y {impar} numeros impares"))
 
         
 

@@ -7,7 +7,7 @@ vocal= str(input("Introduce una vocal: "))
 
 if vocal == 'a' and 'A':
     print (frase.replace(vocal,vocal.upper()))
-elif vocal == 'e' and 'E':
+elif vocal == 'e' or 'E':
     print (frase.replace(vocal,vocal.upper()))
 elif vocal == 'i' and 'I':
     print (frase.replace(vocal,vocal.upper()))
